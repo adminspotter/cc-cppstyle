@@ -1,0 +1,11 @@
+{
+  "name": "cppstyle",
+  "description": "cppstyle checks whitespace, line length, and header files for multi-include protection",
+  "maintainer": {
+    "name": "Trinity Quirk",
+    "email": "trinity.a.quirk@gmail.com"
+  },
+  "languages": ["C", "C++"],
+  "version": "20160930x01",
+  "spec_version": "0.2.0"
+}
